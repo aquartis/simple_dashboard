@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/simple_dasboard/static/css/main.14581ed2.chunk.css",
+    "main.js": "/simple_dasboard/static/js/main.82f00644.chunk.js",
+    "main.js.map": "/simple_dasboard/static/js/main.82f00644.chunk.js.map",
+    "runtime~main.js": "/simple_dasboard/static/js/runtime~main.48802c87.js",
+    "runtime~main.js.map": "/simple_dasboard/static/js/runtime~main.48802c87.js.map",
+    "static/css/2.176df4b7.chunk.css": "/simple_dasboard/static/css/2.176df4b7.chunk.css",
+    "static/js/2.f140c595.chunk.js": "/simple_dasboard/static/js/2.f140c595.chunk.js",
+    "static/js/2.f140c595.chunk.js.map": "/simple_dasboard/static/js/2.f140c595.chunk.js.map",
+    "index.html": "/simple_dasboard/index.html",
+    "precache-manifest.e8244651cc4003b0731f87ff4e5d9697.js": "/simple_dasboard/precache-manifest.e8244651cc4003b0731f87ff4e5d9697.js",
+    "service-worker.js": "/simple_dasboard/service-worker.js",
+    "static/css/2.176df4b7.chunk.css.map": "/simple_dasboard/static/css/2.176df4b7.chunk.css.map",
+    "static/css/main.14581ed2.chunk.css.map": "/simple_dasboard/static/css/main.14581ed2.chunk.css.map"
+  }
+}
